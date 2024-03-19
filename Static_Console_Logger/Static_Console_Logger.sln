@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Static_Console_Logger", "Static_Console_Logger\Static_Console_Logger.csproj", "{879AE033-47C1-4AA4-8D60-4B25BB2EC9AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{879AE033-47C1-4AA4-8D60-4B25BB2EC9AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{879AE033-47C1-4AA4-8D60-4B25BB2EC9AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{879AE033-47C1-4AA4-8D60-4B25BB2EC9AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{879AE033-47C1-4AA4-8D60-4B25BB2EC9AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {96A9B1FE-4009-472D-8A4E-ED203DD386EF}
+	EndGlobalSection
+EndGlobal
